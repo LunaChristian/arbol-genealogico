@@ -31,7 +31,3 @@ Aplicación web para crear y visualizar árboles genealógicos de manera simple 
 - Funciona offline
 - Todo en un solo archivo HTML
 - Sin base de datos necesaria
-
-## 📄 Licencia
-
-Libre para uso personal y comercial.
